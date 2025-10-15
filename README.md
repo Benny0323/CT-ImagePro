@@ -1,6 +1,6 @@
 # Common-CT-Images-Processing-Tools
 
-This repository contains a collection of essential tools for processing CT (Computed Tomography) images. The tools are designed for efficient and accurate manipulation of medical imaging data, which is crucial for researchers, radiologists, and anyone working with CT scans. The code within this repository can be utilized for tasks such as converting PNG files to TIF format and generating sinograms for further processing and analysis.
+This repository contains a collection of essential tools for processing CT (Computed Tomography) images. These tools are designed to be *plug-and-play*, allowing for easy integration into existing workflows without the need for complex setup. They provide efficient and accurate manipulation of medical imaging data, making them ideal for researchers, radiologists, and anyone working with CT scans. With minimal configuration, the code in this repository can be directly applied for basic CT image processing tasks and further analysis, streamlining your workflow and saving valuable time.
 
 ## Key Features:
 
