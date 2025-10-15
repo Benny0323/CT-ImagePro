@@ -29,13 +29,6 @@ This repository contains a collection of essential tools for processing CT (Comp
 
 ---
 
-## Additional Features
-
-- **Flexible Integration**: The tools provided can be integrated into existing workflows for CT image processing and analysis.
-- **Comprehensive Support**: The repository supports various medical imaging formats and can be extended for additional features based on specific project requirements.
-
----
-
 ## Contribution Guidelines
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions follow the style guidelines, and include tests where necessary. We acknowledge the contributions of the open-source community in developing tools for medical image processing. 
