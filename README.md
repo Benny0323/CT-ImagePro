@@ -1,4 +1,4 @@
-# Common-CT-Images-Processing-Tools
+# CT-ImagePro: Comprehensive Toolkit for CT Image Processing
 
 This repository contains a collection of essential tools for processing CT (Computed Tomography) images. These tools are designed to be **plug-and-play**, allowing for easy integration into existing workflows without the need for complex setup. They provide efficient and accurate manipulation of medical imaging data, making them ideal for researchers, radiologists, and anyone working with CT scans. With minimal configuration, the code in this repository can be directly applied for basic CT image processing tasks and further analysis, streamlining your workflow and saving valuable time.
 
